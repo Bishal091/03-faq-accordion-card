@@ -11,7 +11,7 @@ body {
   justify-content: center;
   align-items: center;
   font-family: var(--ff-kumbh);
-  font-size: 12px;
+  font-size: 15px;
   font-weight: 400;
   background-image: linear-gradient(
     to bottom left,
@@ -43,7 +43,7 @@ body {
 
 .women {
   height: 100%;
-  margin-left: -13%;
+  margin-left: -15%;
 }
 
 .bg {
@@ -74,7 +74,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding: 30px 0px;
+  padding: 40px 0px;
 }
 h1 {
   margin-bottom: 10px;
@@ -83,7 +83,7 @@ h1 {
 
 .qna-box {
   padding: 10px 0;
-  border-bottom: 1px solid var(--clr-dividerBlue);
+  border-bottom: 0.5px solid var(--clr-dividerBlue);
 }
 
 h2 {
@@ -92,7 +92,7 @@ h2 {
   padding-bottom: 5px;
   padding-right: 5px;
   font-size: 1em;
-  font-weight: 400;
+  font-weight: 500;
   color: var(--clr-veryDarkGrayBlue);
 }
 
